@@ -1,0 +1,20 @@
+C:\Users\Karl\Desktop\C#_Aton\Prelim_Exam_Aton\Prelim_Exam_Aton\bin\Debug\Prelim_Exam_Aton.exe.config
+C:\Users\Karl\Desktop\C#_Aton\Prelim_Exam_Aton\Prelim_Exam_Aton\bin\Debug\Prelim_Exam_Aton.exe
+C:\Users\Karl\Desktop\C#_Aton\Prelim_Exam_Aton\Prelim_Exam_Aton\bin\Debug\Prelim_Exam_Aton.pdb
+C:\Users\Karl\Desktop\C#_Aton\Prelim_Exam_Aton\Prelim_Exam_Aton\obj\Debug\Prelim_Exam_Aton.Properties.Resources.resources
+C:\Users\Karl\Desktop\C#_Aton\Prelim_Exam_Aton\Prelim_Exam_Aton\obj\Debug\Prelim_Exam_Aton.csproj.GenerateResource.Cache
+C:\Users\Karl\Desktop\C#_Aton\Prelim_Exam_Aton\Prelim_Exam_Aton\obj\Debug\Prelim_Exam_Aton.exe
+C:\Users\Karl\Desktop\C#_Aton\Prelim_Exam_Aton\Prelim_Exam_Aton\obj\Debug\Prelim_Exam_Aton.pdb
+C:\Users\Karl\Desktop\C#_Aton\Prelim_Exam_Aton\Prelim_Exam_Aton\obj\Debug\Prelim_Exam_Aton.LogIn.resources
+C:\Users\Karl\Desktop\C#_Aton\Prelim_Exam_Aton\Prelim_Exam_Aton\obj\Debug\Prelim_Exam_Aton.csprojResolveAssemblyReference.cache
+C:\Users\Karl\Desktop\C#_Aton\Prelim_Exam_Aton\Prelim_Exam_Aton\obj\Debug\Prelim_Exam_Aton.Ordering.resources
+C:\Users\Karl\Desktop\C# WinForm\Prelim_Exam_Aton\Prelim_Exam_Aton\bin\Debug\Prelim_Exam_Aton.exe.config
+C:\Users\Karl\Desktop\C# WinForm\Prelim_Exam_Aton\Prelim_Exam_Aton\obj\Debug\Prelim_Exam_Aton.exe
+C:\Users\Karl\Desktop\C# WinForm\Prelim_Exam_Aton\Prelim_Exam_Aton\obj\Debug\Prelim_Exam_Aton.pdb
+C:\Users\Karl\Desktop\C# WinForm\Prelim_Exam_Aton\Prelim_Exam_Aton\bin\Debug\Prelim_Exam_Aton.exe
+C:\Users\Karl\Desktop\C# WinForm\Prelim_Exam_Aton\Prelim_Exam_Aton\bin\Debug\Prelim_Exam_Aton.pdb
+C:\Users\Karl\Desktop\C# WinForm\Prelim_Exam_Aton\Prelim_Exam_Aton\obj\Debug\Prelim_Exam_Aton.csprojResolveAssemblyReference.cache
+C:\Users\Karl\Desktop\C# WinForm\Prelim_Exam_Aton\Prelim_Exam_Aton\obj\Debug\Prelim_Exam_Aton.LogIn.resources
+C:\Users\Karl\Desktop\C# WinForm\Prelim_Exam_Aton\Prelim_Exam_Aton\obj\Debug\Prelim_Exam_Aton.Ordering.resources
+C:\Users\Karl\Desktop\C# WinForm\Prelim_Exam_Aton\Prelim_Exam_Aton\obj\Debug\Prelim_Exam_Aton.Properties.Resources.resources
+C:\Users\Karl\Desktop\C# WinForm\Prelim_Exam_Aton\Prelim_Exam_Aton\obj\Debug\Prelim_Exam_Aton.csproj.GenerateResource.Cache
